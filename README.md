@@ -1,8 +1,9 @@
 Library Patron Activity Dashboard
 
+<img width="1440" alt="Screenshot 2025-03-19 at 10 50 40 PM" src="https://github.com/user-attachments/assets/d99fdb90-723f-4204-adc0-14bf5c91ff3e" />
 
 
-(Replace this placeholder with an actual screenshot of your dashboard if available.)
+
 Overview
 
 The Library Patron Activity Dashboard is a web-based application designed to analyze and visualize library patron trends, branch performance, and book borrowing patterns. This dashboard provides insights into daily activity, branch-wise performance, peak hours, and detailed patron data in an interactive and visually appealing manner.
